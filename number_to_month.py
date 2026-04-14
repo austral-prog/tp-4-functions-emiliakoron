@@ -25,5 +25,5 @@ def number_to_month(month):
         return "noviembre"
     elif month == 12:
         return "diciembre"
-    else: 
-        return "Error"
+    else:
+        return "error"
